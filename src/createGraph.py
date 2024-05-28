@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 20 01:49:12 2020
-Modified on Mon Oct 02 11:01:36 2023
 
-@author: sqin34
-@modified by: Teslim
-"""
 import torch
 import dgl
 from dgllife.utils import BaseAtomFeaturizer,CanonicalAtomFeaturizer,CanonicalBondFeaturizer 
