@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 16 15:26:24 2020
-Modified on Mon Oct 02 11:01:36 2023
-
-@author: sqin34
-@modified by: Teslim
-"""
 
 
 from __future__ import division
